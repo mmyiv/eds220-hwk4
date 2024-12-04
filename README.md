@@ -2,12 +2,11 @@
 ## Author: [Michelle Yiv](https://github.com/mmyiv)
 
 # Purpose
-This repository contains the analysis of the 2017 Thomas Fire. A comprehensive analysis is available via blogpost_yiv.ipynb, and contains boundary and true/false color mapping in addition to an aiq quality index analysis. This analysis serves to
-
-
+The Thomas Burned 281,000 acres in Santa Barbara and Ventura County from December 4th to January 12, 2018. Analysis of this fire is contained in this repository. Landsat and CalFire boundary data were used to map the burn scars with true and false color imagery, and Air Quality Index data from the US EPA was analyzed to visualize the impacts of air quality over time from the fire.
+![Thomas Fire, December 2017. Source: https://sbbucketbrigade.org/timeline/2017-thomas-fire/](https://github.com/user-attachments/assets/ef34594a-a22b-4e85-be88-0c7448303de4)
 
 # Repository Structure
-
+```
 eds220-hwk4
 │  └──README.md
 |  └──hwk4-task2-fire-perimeter-YIV.ipynb
@@ -26,13 +25,13 @@ eds220-hwk4
     │ └──thomas_fire.prj
     │ └──thomas_fire.shp
     │ └──thomas_fire.shx
-
+```
 # Data Access
 Thomas Fire Boundary data can be downloaded through the Data.gov, and is housed on the Bren Workbench Server. Data can be read in through the `GeoPandas` package. Data was filtered to the Thomas 2017 Fire and was plotted as a boundary.
 
 Landsat data was sourced by the EDS 220 Instructor and is housed on the Bren Workbench server. It was sourced from the Microsof Planetary Computer data catalogue and was cleaned beforehand to remove land data outside of Santa Barbara and to coarsen resolution.  To run the code, data is read in using `xarray` and `rioxarray` packages. Coordinates refer to the area surrounding Santa Barbara, and data variables are used to plot true/false color images.
 
-Air quality data was sourced by the US Environmental Protection Agency. Data can be read in using the `pandas` package. Data was concatenated to combine AQI information of all 2017 for the Thomas Fire. Data was cleaned and made tidy to compute a rolling average and plot AQI values.
+Air quality data was sourced by the US Environmental Protection Agency, and contain information about AQI values by county from 2017 and 2018. Data can be read in using the `pandas` package. Data was concatenated to combine AQI information of all 2017 for the Thomas Fire. Data was cleaned and made tidy to compute a rolling average and plot AQI values.
 
 
 # References
