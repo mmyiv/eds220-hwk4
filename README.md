@@ -37,7 +37,7 @@ Air quality data was sourced by the US Environmental Protection Agency, and cont
 
 # References
 
-1. EDS 220 - Working with Environmental Datasets Course Notes.
+**EDS 220 - Working with Environmental Datasets Course Notes.**
 
 Date of Access: 11-19-2024.
 
@@ -46,7 +46,7 @@ Date of Access: 11-19-2024.
 Citation: "EDS 220 - Working with Environmental Datasets Course Notes," EDS 220 - Working with Environmental Datasets Course Notes. 2024. EDS 220 - Working with Environmental Datasets Course Notes. (accessed Nov. 19, 2024).
 
 
-2. California Fire Perimeter.
+**California Fire Perimeter.**
 
 Date of access: 11-19-2024.
 
@@ -55,7 +55,7 @@ Date of access: 11-19-2024.
 Citation: “Data.gov,” Data.gov, 2024. https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436 (accessed Nov. 19, 2024).
 
 
-3. Landsat Data.
+**Landsat Data.**
 
 Date of access: 11-19-2024.
 
@@ -64,7 +64,7 @@ Date of access: 11-19-2024.
 Citation: “Microsoft Planetary Computer,” Microsoft.com, 2024. https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2 (accessed Nov. 19, 2024).
 
 
-4. Air Quality Index Data
+**Air Quality Index Data**
 
 Date of Access: 10-29-2024
 
@@ -73,7 +73,7 @@ Date of Access: 10-29-2024
 Citation: "AQI Basics," airnow.gov, 2021. https://www.airnow.gov/aqi/aqi-basics/ (accesed Oct. 29, 2024)
 
 
-5. Thomas Fire Photo and Statistics
+**Thomas Fire Photo and Statistics**
 
 Date of Access: 12-04-2024
 
