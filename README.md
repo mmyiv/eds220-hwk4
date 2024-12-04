@@ -44,27 +44,26 @@ Air quality data was sourced by the US Environmental Protection Agency, and cont
 
 2. **California Fire Perimeter.**
 
-    Citation: “Data.gov,” Data.gov, 2024. https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436 (accessed Nov. 19, 2024). [Link to data](https://catalog.data.gov/dataset/california-fire- 
-    perimeters- all-b3436)
+    Citation: “Data.gov,” Data.gov, 2024. https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436 (accessed Nov. 19, 2024). [Link to data](https://catalog.data.gov/dataset/california-fire-perimeters- all-b3436)
 
 
-**Landsat Data.**
+3. **Landsat Data.**
 
-Citation: “Microsoft Planetary Computer,” Microsoft.com, 2024. https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2 (accessed Nov. 19, 2024). [Link to data](https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2)
-
-
-
-
-**Air Quality Index Data**
-
-Citation: "AQI Basics," airnow.gov, 2021. https://www.airnow.gov/aqi/aqi-basics/ (accesed Oct. 29, 2024). [Link to data](https://www.airnow.gov/aqi/aqi-basics/)
+    Citation: “Microsoft Planetary Computer,” Microsoft.com, 2024. https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2 (accessed Nov. 19, 2024). [Link to data](https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2)
 
 
 
 
-**Thomas Fire Photo and Statistics**
+4. **Air Quality Index Data**
 
-Citation: "2017 Thomas Fire," sbbucketbrigade. 2019. https://sbbucketbrigade.org/timeline/2017-thomas-fire/ (accessed Dec. 04, 2024). [Link to website](https://sbbucketbrigade.org/timeline/2017-thomas-fire/)
+    Citation: "AQI Basics," airnow.gov, 2021. https://www.airnow.gov/aqi/aqi-basics/ (accesed Oct. 29, 2024). [Link to data](https://www.airnow.gov/aqi/aqi-basics/)
+
+
+
+
+5. **Thomas Fire Photo and Statistics**
+
+    Citation: "2017 Thomas Fire," sbbucketbrigade. 2019. https://sbbucketbrigade.org/timeline/2017-thomas-fire/ (accessed Dec. 04, 2024). [Link to website](https://sbbucketbrigade.org/timeline/2017-thomas-fire/)
     
     
     
