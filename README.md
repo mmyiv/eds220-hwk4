@@ -38,22 +38,27 @@ Air quality data was sourced by the US Environmental Protection Agency, and cont
 # References
 
 **EDS 220 - Working with Environmental Datasets Course Notes.**
+
 Citation: "EDS 220 - Working with Environmental Datasets Course Notes," EDS 220 - Working with Environmental Datasets Course Notes. 2024. EDS 220 - Working with Environmental Datasets Course Notes. (accessed Nov. 19, 2024). [Link to data](https://meds-eds-220.github.io/MEDS-eds-220-course/book/chapters/lesson-15-rioxarray/lesson-15-rioxarray.html)
 
 
 **California Fire Perimeter.**
+
 Citation: “Data.gov,” Data.gov, 2024. https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436 (accessed Nov. 19, 2024). [Link to data](https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436)
 
 
 **Landsat Data.**
+
 Citation: “Microsoft Planetary Computer,” Microsoft.com, 2024. https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2 (accessed Nov. 19, 2024). [Link to data](https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2)
 
 
 **Air Quality Index Data**
+
 Citation: "AQI Basics," airnow.gov, 2021. https://www.airnow.gov/aqi/aqi-basics/ (accesed Oct. 29, 2024). [Link to data](https://www.airnow.gov/aqi/aqi-basics/)
 
 
 **Thomas Fire Photo and Statistics**
+
 Citation: "2017 Thomas Fire," sbbucketbrigade. 2019. https://sbbucketbrigade.org/timeline/2017-thomas-fire/ (accessed Dec. 04, 2024). [Link to website](https://sbbucketbrigade.org/timeline/2017-thomas-fire/)
     
     
