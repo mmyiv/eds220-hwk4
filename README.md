@@ -39,7 +39,7 @@ Air quality data was sourced by the US Environmental Protection Agency, and cont
 
 EDS 220 - Working with Environmental Datasets Course Notes.
 Date of Access: 11-19-2024.
-[Link to data]([https://meds-eds-220.github.io/MEDS-eds-220-course/book/preface.html](https://meds-eds-220.github.io/MEDS-eds-220-course/book/chapters/lesson-15-rioxarray/lesson-15-rioxarray.html)
+[Link to data](https://meds-eds-220.github.io/MEDS-eds-220-course/book/chapters/lesson-15-rioxarray/lesson-15-rioxarray.html)
 Citation: "EDS 220 - Working with Environmental Datasets Course Notes," EDS 220 - Working with Environmental Datasets Course Notes. 2024. EDS 220 - Working with Environmental Datasets Course Notes. (accessed Nov. 19, 2024).
 
 California Fire Perimeter.
