@@ -3,7 +3,7 @@
 
 # Purpose
 
-This repository contains 2 Jupyter notebooks of the Thomas Fire boundary, and visualization and analysis of that fire near Santa Barbara
+
 
 # Repository Structure
 
@@ -29,6 +29,8 @@ eds220-hwk4
 Thomas Fire Boundary data can be downloaded through the Data.gov, and is housed on the Bren Workbench Server. Data can be read in through the `GeoPandas` package. Data was filtered to the Thomas 2017 Fire and was plotted as a boundary.
 
 Landsat data was sourced by the EDS 220 Instructor and is housed on the Bren Workbench server. It was sourced from the Microsof Planetary Computer data catalogue and was cleaned beforehand to remove land data outside of Santa Barbara and to coarsen resolution.  To run the code, data is read in using `xarray` and `rioxarray` packages. Coordinates refer to the area surrounding Santa Barbara, and data variables are used to plot true/false color images.
+
+Air quality data was sourced by the US Environmental Protection Agency. Data can be read in using the `pandas` package. Data was concatenated to combine AQI information of all 2017 for the Thomas Fire. Data was cleaned and made tidy to compute a rolling average and plot AQI values.
 
 
 # References
