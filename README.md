@@ -2,6 +2,7 @@
 ## Author: [Michelle Yiv](https://github.com/mmyiv)
 
 # Purpose
+This repository contains the analysis of the 2017 Thomas Fire. A comprehensive analysis is available via blogpost_yiv.ipynb, and contains boundary and true/false color mapping in addition to an aiq quality index analysis. This analysis 
 
 
 
@@ -11,6 +12,7 @@ eds220-hwk4
 │   README.md
 |   hwk4-task2-fire-perimeter-YIV.ipynb
 │   hwk4-task2-false-color-YIV.ipynb
+|   blogpost_yiv.ipynb
 |   .gitignore
 │
 └───data
@@ -50,7 +52,10 @@ Date of access: 11-19-2024.
 [Link to data](https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2)
 Citation: “Microsoft Planetary Computer,” Microsoft.com, 2024. https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2 (accessed Nov. 19, 2024).
 
-
+Air Quality Index Data
+Date of Access: 10-29-2024
+[Link to data](https://www.airnow.gov/aqi/aqi-basics/)
+Citation: "AQI Basics," airnow.gov, 2021. https://www.airnow.gov/aqi/aqi-basics/ (accesed Oct. 29, 2024)
     
     
     
