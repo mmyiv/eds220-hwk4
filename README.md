@@ -37,18 +37,15 @@ Air quality data was sourced by the US Environmental Protection Agency, and cont
 
 # References
 
-**EDS 220 - Working with Environmental Datasets Course Notes.**
+1. **EDS 220 - Working with Environmental Datasets Course Notes.**
 
-Citation: "EDS 220 - Working with Environmental Datasets Course Notes," EDS 220 - Working with Environmental Datasets Course Notes. 2024. EDS 220 - Working with Environmental Datasets Course Notes. (accessed Nov. 19, 2024). [Link to data](https://meds-eds-220.github.io/MEDS-eds-220-course/book/chapters/lesson-15-rioxarray/lesson-15-rioxarray.html)
-
-
+    Citation: "EDS 220 - Working with Environmental Datasets Course Notes," EDS 220 - Working with Environmental Datasets Course Notes. 2024. EDS 220 - Working with Environmental Datasets Course Notes. (accessed      Nov. 19, 2024). [Link to data](https://meds-eds-220.github.io/MEDS-eds-220-course/book/chapters/lesson-15-rioxarray/lesson-15-rioxarray.html)
 
 
-**California Fire Perimeter.**
+2. **California Fire Perimeter.**
 
-Citation: “Data.gov,” Data.gov, 2024. https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436 (accessed Nov. 19, 2024). [Link to data](https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436)
-
-
+    Citation: “Data.gov,” Data.gov, 2024. https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436 (accessed Nov. 19, 2024). [Link to data](https://catalog.data.gov/dataset/california-fire- 
+    perimeters- all-b3436)
 
 
 **Landsat Data.**
