@@ -1,9 +1,10 @@
 # Visualizing 2017 Thomas Fire Scars
 ## Author: [Michelle Yiv](https://github.com/mmyiv)
 
+![Thomas Fire, December 2017. Source: https://sbbucketbrigade.org/timeline/2017-thomas-fire/](https://github.com/user-attachments/assets/ef34594a-a22b-4e85-be88-0c7448303de4)
+
 # Purpose
 The Thomas Burned 281,000 acres in Santa Barbara and Ventura County from December 4th to January 12, 2018. Analysis of this fire is contained in this repository. Landsat and CalFire boundary data were used to map the burn scars with true and false color imagery, and Air Quality Index data from the US EPA was analyzed to visualize the impacts of air quality over time from the fire.
-![Thomas Fire, December 2017. Source: https://sbbucketbrigade.org/timeline/2017-thomas-fire/](https://github.com/user-attachments/assets/ef34594a-a22b-4e85-be88-0c7448303de4)
 
 # Repository Structure
 ```
