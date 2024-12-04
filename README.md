@@ -2,30 +2,30 @@
 ## Author: [Michelle Yiv](https://github.com/mmyiv)
 
 # Purpose
-This repository contains the analysis of the 2017 Thomas Fire. A comprehensive analysis is available via blogpost_yiv.ipynb, and contains boundary and true/false color mapping in addition to an aiq quality index analysis. This analysis 
+This repository contains the analysis of the 2017 Thomas Fire. A comprehensive analysis is available via blogpost_yiv.ipynb, and contains boundary and true/false color mapping in addition to an aiq quality index analysis. This analysis serves to
 
 
 
 # Repository Structure
 
 eds220-hwk4
-│   README.md
-|   hwk4-task2-fire-perimeter-YIV.ipynb
-│   hwk4-task2-false-color-YIV.ipynb
-|   blogpost_yiv.ipynb
-|   .gitignore
+│  └──README.md
+|  └──hwk4-task2-fire-perimeter-YIV.ipynb
+│  └──hwk4-task2-false-color-YIV.ipynb
+|  └──blogpost_yiv.ipynb
+|  └──.gitignore
 │
 └───data
-    │ California_Fire_Perimeters_(all).cpg
-    │ California_Fire_Perimeters_(all).dbf
-    │ California_Fire_Perimeters_(all).prj
-    │ California_Fire_Perimeters_(all).shp.xml
+    │ └──California_Fire_Perimeters_(all).cpg
+    │ └──California_Fire_Perimeters_(all).dbf
+    │ └──California_Fire_Perimeters_(all).prj
+    │ └──California_Fire_Perimeters_(all).shp.xml
     │ California_Fire_Perimeters_(all).shx
-    │ thomas_fire.cpg
-    │ thomas_fire.dbf
-    │ thomas_fire.prj
-    │ thomas_fire.shp
-    │ thomas_fire.shx
+    │ └──thomas_fire.cpg
+    │ └──thomas_fire.dbf
+    │ └──thomas_fire.prj
+    │ └──thomas_fire.shp
+    │ └──thomas_fire.shx
 
 # Data Access
 Thomas Fire Boundary data can be downloaded through the Data.gov, and is housed on the Bren Workbench Server. Data can be read in through the `GeoPandas` package. Data was filtered to the Thomas 2017 Fire and was plotted as a boundary.
