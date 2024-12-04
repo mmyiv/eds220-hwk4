@@ -38,7 +38,9 @@ Air quality data was sourced by the US Environmental Protection Agency, and cont
 # References
 
 **EDS 220 - Working with Environmental Datasets Course Notes.**
+
 [Link to data](https://meds-eds-220.github.io/MEDS-eds-220-course/book/chapters/lesson-15-rioxarray/lesson-15-rioxarray.html)
+
 Citation: "EDS 220 - Working with Environmental Datasets Course Notes," EDS 220 - Working with Environmental Datasets Course Notes. 2024. EDS 220 - Working with Environmental Datasets Course Notes. (accessed Nov. 19, 2024).
 
 
